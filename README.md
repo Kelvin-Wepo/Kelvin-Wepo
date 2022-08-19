@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...I'm currently learning Javascript Angular and Python.
 - 💞️ I’m looking to collaborate on ...Web development Projects
-- 📫 How to reach me ...PHONE 0799489045...Email kelvin.wepo@student.moringa.com
+- 📫 How to reach me ...PHONE 0799489045...Email kelvinwepo7710@gmail.com
 
 
 ## 🌐 Socials:
